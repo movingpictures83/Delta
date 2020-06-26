@@ -1,0 +1,39 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: Delta
+OTU	Mean	Std Dev	Abundances
+"Propionibacterium.01"	 6.89 %	 16.2 %	 [4.78, 27.19, 21.8, 5.72, -15.17, 2.18, 25.95, -17.32]
+"F.Pseudomonadaceae.01"	 3.46 %	 5.74 %	 [-0.55, 7.48, 3.46, 2.15, -3.27, 2.88, 16.33, -0.8]
+"Ralstonia.01"	 2.68 %	 8.41 %	 [1.45, -0.59, 21.59, 0.38, -1.41, 9.58, -7.57, -1.96]
+"Prevotella.01"	 2.19 %	 8.2 %	 [-3.21, 3.03, -8.25, 3.15, 8.62, -2.22, -3.3, 19.73]
+"Staphylococcus.01"	 2.1 %	 3.65 %	 [1.54, 2.35, 11.44, 1.55, -0.29, -0.16, 0.71, -0.36]
+"TM7_genus_incertae_sedis.02"	 1.91 %	 4.33 %	 [0.16, -0.9, 0.75, 1.05, -2.19, 8.54, 9.78, -1.89]
+"Alicyclobacillus.01"	 1.47 %	 3.2 %	 [-0.16, 1.9, 9.76, 0.29, -0.08, -0.41, 0.3, 0.18]
+"Fusobacterium.01"	 -1.2 %	 1.31 %	 [-0.01, -1.12, -2.23, -1.26, 0.28, -0.25, -4.03, -0.98]
+"Veillonella.01"	 -1.61 %	 2.77 %	 [-0.95, 0.03, -5.07, -3.73, 2.26, -0.66, -5.9, 1.15]
+"F.Pasteurellaceae.02"	 -1.82 %	 4.15 %	 [-1.06, -12.7, -0.25, 0.73, 0.02, -1.05, -0.32, 0.09]
+"F.Pasteurellaceae.01"	 -3.77 %	 3.54 %	 [-0.78, -1.74, -11.84, -3.79, -0.18, -2.57, -6.41, -2.87]
+"Neisseria.01"	 -5.76 %	 4.87 %	 [0.45, -11.85, -1.1, -14.17, -4.46, -4.66, -8.13, -2.19]
+"Streptococcus.01"	 -5.87 %	 6.63 %	 [-2.15, -10.71, -5.86, -10.33, 4.74, -5.71, -17.64, 0.68]
