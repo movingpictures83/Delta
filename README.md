@@ -2,7 +2,8 @@
 # Language: Python
 # Input: TXT
 # Output: none (screen only)
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.16.0
 
 PluMA plugin to output statistics (mean, standard deviation, etc.) on the difference in abundance in taxa between two samples.
 
